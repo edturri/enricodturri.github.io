@@ -52,11 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Enrico D. Turri
-          subtitle: "<div style="white-space:pre">
-Here are
-some lines
-of text
-</div>"
+          subtitle: "Line1 <br> Line2"
           #imageUrl: "photo.png"
           #imageWidth: 160
           #imageHeight: 160
