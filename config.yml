@@ -60,10 +60,10 @@ params:
           buttons:
             - name: Publications
               url: articles/
-            - name: Talks
-              url: talks/
-            - name: Teaching
-              url: classes/
+            #- name: Talks
+            #  url: talks/
+            #- name: Teaching
+            #  url: classes/
             - name: CV
               url: cv.pdf
             # - name: Archive
@@ -75,8 +75,8 @@ params:
         #  url: https://arxiv.org/search/?query=Dylan+Laplace+Mermoud&searchtype=all&source=header
         #- name: orcid
         #  url: https://orcid.org/0000-0002-1508-9656
-        - name: CV
-          url: public/cv.pdf
+        #- name: CV
+        #  url: public/cv.pdf
         # - name: Location
         #   url: location/
         # - name: Office Hours
