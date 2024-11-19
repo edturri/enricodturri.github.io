@@ -20,8 +20,8 @@ menu:
         #- name: Teaching
         #  url: classes/
         #  weight: 3 
-        #- name: CV
-        #  url: cv.pdf
+        - name: CV
+          url: cv.pdf
         # - name: Newsletter
         #   url: https://pmichaillat.substack.com
         #   weight: 4
