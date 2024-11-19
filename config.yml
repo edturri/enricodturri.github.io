@@ -12,7 +12,7 @@ taxonomies:
 menu:
     main:
         - name: Publications
-          url: articles/
+          url: /articles/
           weight: 1
         #- name: Talks
         #  url: talks/
@@ -21,7 +21,7 @@ menu:
         #  url: classes/
         #  weight: 3 
         - name: CV
-          url: public/cv_edturri.pdf
+          url: /public/cv_edturri.pdf
         # - name: Newsletter
         #   url: https://pmichaillat.substack.com
         #   weight: 4
@@ -59,13 +59,13 @@ params:
           #imageTitle: Dylan Laplace Mermoud
           buttons:
             - name: Publications
-              url: articles/
+              url: /articles/
             #- name: Talks
             #  url: talks/
             #- name: Teaching
             #  url: classes/
             - name: CV
-              url: public/cv_edturri.pdf
+              url: /public/cv_edturri.pdf
             # - name: Archive
             #   url: archive/
     socialIcons:
