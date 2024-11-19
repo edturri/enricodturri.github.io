@@ -64,8 +64,8 @@ params:
               url: talks/
             - name: Teaching
               url: classes/
-            - name: Resume
-              url: public/cv.pdf
+            - name: CV
+              url: cv.pdf
             # - name: Archive
             #   url: archive/
     socialIcons:
