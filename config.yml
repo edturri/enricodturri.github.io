@@ -27,7 +27,7 @@ menu:
         #   weight: 4
 
 params:
-    description: ""
+    description: "description"
     author: Enrico D. Turri
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "02 Jan 2006"
