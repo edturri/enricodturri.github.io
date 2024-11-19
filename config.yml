@@ -11,24 +11,24 @@ taxonomies:
 
 menu:
     main:
-        - name: Publications
-          url: articles/
-          weight: 1
-        - name: Talks
-          url: talks/
-          weight: 2
-        - name: Teaching
-          url: classes/
-          weight: 3 
-        - name: Resume
-          url: cv.pdf
+        #- name: Publications
+        #  url: articles/
+        #  weight: 1
+        #- name: Talks
+        #  url: talks/
+        #  weight: 2
+        #- name: Teaching
+        #  url: classes/
+        #  weight: 3 
+        #- name: Resume
+        #  url: cv.pdf
         # - name: Newsletter
         #   url: https://pmichaillat.substack.com
         #   weight: 4
 
 params:
-    description: "I am a postdoctoral researcher in quantum computing for combinatorial optimization at ENSTA Paris - Institut Polytechnique de Paris."
-    author: Dylan Laplace Mermoud
+    description: "I am a PhD Candidate at The London School of Economics and Political Science."
+    author: Enrico D. Turri
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "02 Jan 2006"
     defaultTheme: light
@@ -51,12 +51,12 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Dylan Laplace Mermoud
-          subtitle: "I am a mathematician working in the field of discrete mathematics. Currently, I am a postdoctoral researcher in quantum computing for combinatorial optimization at ENSTA Paris - Institut Polytechnique de Paris. I also work on cooperative game theory, combinatorial geometry and algebraic combinatorics."
-          imageUrl: "photo.png"
-          imageWidth: 160
-          imageHeight: 160
-          imageTitle: Dylan Laplace Mermoud
+          title: Enrico D. Turri
+          subtitle: "I do research in growth and inequality."
+          #imageUrl: "photo.png"
+          #imageWidth: 160
+          #imageHeight: 160
+          #imageTitle: Dylan Laplace Mermoud
           buttons:
             - name: Publications
               url: articles/
@@ -64,25 +64,25 @@ params:
               url: talks/
             - name: Teaching
               url: classes/
-            - name: Resume
-              url: cv.pdf
+            #- name: Resume
+            #  url: cv.pdf
             # - name: Archive
             #   url: archive/
     socialIcons:
-        - name: hal
-          url: https://hal.science/search/index/?q=*&authIdPerson_i=1215683
-        - name: arXiv
-          url: https://arxiv.org/search/?query=Dylan+Laplace+Mermoud&searchtype=all&source=header
-        - name: orcid
-          url: https://orcid.org/0000-0002-1508-9656
+        #- name: hal
+        #  url: https://hal.science/search/index/?q=*&authIdPerson_i=1215683
+        #- name: arXiv
+        #  url: https://arxiv.org/search/?query=Dylan+Laplace+Mermoud&searchtype=all&source=header
+        #- name: orcid
+        #  url: https://orcid.org/0000-0002-1508-9656
         # - name: CV
         #   url: cv.pdf
         # - name: Location
         #   url: location/
         # - name: Office Hours
         #   url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=haznRHoAAAAJ&hl=fr&oi=ao
+        #- name: Google Scholar
+        #  url: https://scholar.google.com/citations?user=haznRHoAAAAJ&hl=fr&oi=ao
         # - name: YouTube
         #   url: https://www.youtube.com/@pmichaillat
         - name: GitHub
@@ -91,8 +91,8 @@ params:
         #   url: https://pmichaillat.substack.com
         # - name: Twitter
         #   url: https://twitter.com/pmichaillat
-        - name: Email
-          url: mailto:dylan.laplace.mermoud@gmail.com
+        #- name: Email
+        #  url: mailto:dylan.laplace.mermoud@gmail.com
 
     assets:
         disableHLJS: true
