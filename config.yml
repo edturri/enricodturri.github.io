@@ -1,0 +1,118 @@
+baseURL: "https://dylanlaplacemermoud.github.io" 
+title: Dylan Laplace Mermoud
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Publications
+          url: articles/
+          weight: 1
+        - name: Talks
+          url: talks/
+          weight: 2
+        - name: Teaching
+          url: classes/
+          weight: 3 
+        - name: Resume
+          url: cv.pdf
+        # - name: Newsletter
+        #   url: https://pmichaillat.substack.com
+        #   weight: 4
+
+params:
+    description: "I am a postdoctoral researcher in quantum computing for combinatorial optimization at ENSTA Paris - Institut Polytechnique de Paris."
+    author: Dylan Laplace Mermoud
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "02 Jan 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Dylan Laplace Mermoud
+          subtitle: "I am a mathematician working in the field of discrete mathematics. Currently, I am a postdoctoral researcher in quantum computing for combinatorial optimization at ENSTA Paris - Institut Polytechnique de Paris. I also work on cooperative game theory, combinatorial geometry and algebraic combinatorics."
+          imageUrl: "photo.png"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Dylan Laplace Mermoud
+          buttons:
+            - name: Publications
+              url: articles/
+            - name: Talks
+              url: talks/
+            - name: Teaching
+              url: classes/
+            - name: Resume
+              url: cv.pdf
+            # - name: Archive
+            #   url: archive/
+    socialIcons:
+        - name: hal
+          url: https://hal.science/search/index/?q=*&authIdPerson_i=1215683
+        - name: arXiv
+          url: https://arxiv.org/search/?query=Dylan+Laplace+Mermoud&searchtype=all&source=header
+        - name: orcid
+          url: https://orcid.org/0000-0002-1508-9656
+        # - name: CV
+        #   url: cv.pdf
+        # - name: Location
+        #   url: location/
+        # - name: Office Hours
+        #   url: officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=haznRHoAAAAJ&hl=fr&oi=ao
+        # - name: YouTube
+        #   url: https://www.youtube.com/@pmichaillat
+        - name: GitHub
+          url: https://github.com/DylanLaplaceMermoud
+        # - name: Substack
+        #   url: https://pmichaillat.substack.com
+        # - name: Twitter
+        #   url: https://twitter.com/pmichaillat
+        - name: Email
+          url: mailto:dylan.laplace.mermoud@gmail.com
+
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Dylan Laplace Mermoud"
+      icon: logo2.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
