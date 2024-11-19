@@ -65,7 +65,7 @@ params:
             - name: Teaching
               url: classes/
             - name: Resume
-              url: cv.pdf
+              url: public/cv.pdf
             # - name: Archive
             #   url: archive/
     socialIcons:
