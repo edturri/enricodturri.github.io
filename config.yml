@@ -20,8 +20,8 @@ menu:
         #- name: Teaching
         #  url: classes/
         #  weight: 3 
-        - name: CV
-          url: cv.pdf
+        #- name: CV
+        #  url: cv.pdf
         # - name: Newsletter
         #   url: https://pmichaillat.substack.com
         #   weight: 4
@@ -75,8 +75,8 @@ params:
         #  url: https://arxiv.org/search/?query=Dylan+Laplace+Mermoud&searchtype=all&source=header
         #- name: orcid
         #  url: https://orcid.org/0000-0002-1508-9656
-        # - name: CV
-        #   url: cv.pdf
+        - name: CV
+          url: public/cv.pdf
         # - name: Location
         #   url: location/
         # - name: Office Hours
