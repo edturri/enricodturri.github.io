@@ -14,13 +14,13 @@ menu:
         - name: Publications
           url: articles/
           weight: 1
-        - name: Talks
-          url: talks/
-          weight: 2
-        - name: Teaching
-          url: classes/
-          weight: 3 
-        - name: Resume
+        #- name: Talks
+        #  url: talks/
+        #  weight: 2
+        #- name: Teaching
+        #  url: classes/
+        #  weight: 3 
+        - name: CV
           url: cv.pdf
         # - name: Newsletter
         #   url: https://pmichaillat.substack.com
@@ -51,7 +51,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Enrico Duilio Turri
+          title: Enrico D. Turri
           subtitle: "I am a PhD Candidate at The London School of Economics and Political Science. I do research in macroeconomics, growth and inequality."
           #imageUrl: "photo.png"
           #imageWidth: 160
@@ -101,7 +101,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Dylan Laplace Mermoud"
+      text: "Enrico D. Turri"
       icon: logo2.ico
       iconHeight: 18
 
