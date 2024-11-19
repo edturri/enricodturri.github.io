@@ -1,5 +1,5 @@
 baseURL: "https://edturri.github.io" 
-title: Enrico Duilio Turri
+title: Enrico D. Turri
 paginate: 20
 theme: PaperMod
 
@@ -28,7 +28,7 @@ menu:
 
 params:
     description: "description"
-    author: Enrico Duilio Turri
+    author: Enrico D. Turri
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "02 Jan 2006"
     defaultTheme: light
@@ -81,8 +81,8 @@ params:
         #   url: location/
         # - name: Office Hours
         #   url: officehours/
-        #- name: Google Scholar
-        #  url: https://scholar.google.com/citations?user=haznRHoAAAAJ&hl=fr&oi=ao
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=gE6lAJ0AAAAJ&hl=en
         # - name: YouTube
         #   url: https://www.youtube.com/@pmichaillat
         - name: GitHub
@@ -91,8 +91,8 @@ params:
         #   url: https://pmichaillat.substack.com
         # - name: Twitter
         #   url: https://twitter.com/pmichaillat
-        #- name: Email
-        #  url: mailto:dylan.laplace.mermoud@gmail.com
+        - name: Email
+          url: mailto:e.turri@lse.ac.uk
 
     assets:
         disableHLJS: true
