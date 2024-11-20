@@ -12,7 +12,7 @@ taxonomies:
 menu:
     main:
         - name: Research
-          url: /articles/
+          url: /research
           weight: 1
         #- name: Talks
         #  url: talks/
@@ -21,7 +21,7 @@ menu:
         #  url: classes/
         #  weight: 3 
         - name: CV
-          url: /cv_edturri.pdf
+          url: /cv.pdf
         # - name: Newsletter
         #   url: https://pmichaillat.substack.com
         #   weight: 4
@@ -59,7 +59,7 @@ params:
           #imageTitle: Dylan Laplace Mermoud
           buttons:
             - name: Research
-              url: https://github.com/edturri/edturri.github.io/public/articles/
+              url: /public/articles/
             #- name: Talks
             #  url: talks/
             #- name: Teaching
