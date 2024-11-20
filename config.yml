@@ -59,7 +59,7 @@ params:
           #imageTitle: Dylan Laplace Mermoud
           buttons:
             - name: Research
-              url: https://github.com/edturri/edturri.github.io/content/articles/
+              url: https://github.com/edturri/edturri.github.io/public/articles/
             #- name: Talks
             #  url: talks/
             #- name: Teaching
