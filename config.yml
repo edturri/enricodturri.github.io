@@ -59,7 +59,7 @@ params:
           #imageTitle: Dylan Laplace Mermoud
           buttons:
             - name: Research
-              url: /articles/
+              url: /research/
             #- name: Talks
             #  url: talks/
             #- name: Teaching
