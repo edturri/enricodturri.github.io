@@ -12,7 +12,7 @@ taxonomies:
 menu:
     main:
         - name: Research
-          url: /researcb/
+          url: /research/
           weight: 1
         #- name: Talks
         #  url: talks/
