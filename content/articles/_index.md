@@ -9,6 +9,10 @@ description: "Articles and preprints."
 
     - Pietro Garibaldi, Enrico D. Turri
 
+- Agening and the Direction of Innovation
+
+    - Enrico D. Turri
+
 ---
 
 ### Pre-prints
