@@ -1,8 +1,13 @@
 ---
 title: "Research"
-date: 2024-11-20
-draft: false
-layout: "single" # Optional: Specific layout if needed
 ---
 
-<!-- This is a blank page for the "Research" section. -->
+### Working papers
+
+- Monopsony in Growth Theory
+    - with Pietro Garibaldi
+
+### Work in progress
+ 
+- Blameocracy
+    - with Francesco Bilotta, Alberto Binetti, Giacomo Manferdini
