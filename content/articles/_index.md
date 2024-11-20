@@ -5,11 +5,9 @@ description: "Articles and preprints."
 
 ### Peer-reviewed journal publications
 
-- Minimal balanced collections and their application to core stability and other topics of game theory
+- Monopsony in Growth Theory
 
-    - Dylan Laplace Mermoud, Michel Grabich, Peter Sudhölter,
-    - Discrete Applied Mathematics, volume 341, 2023, pages 60-81,
-    - https://doi.org/10.1016/j.dam.2023.07.025
+    - Pietro Garibaldi, Enrico D. Turri
 
 ---
 
