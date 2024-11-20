@@ -17,3 +17,7 @@ Monopsony in Growth Theory
 Blameocracy  
 &nbsp;&nbsp;&nbsp;&nbsp;    with Francesco Bilotta, Alberto Binetti, Giacomo Manferdini
 
+
+Commodity Shocks with Diverse Impacts: How Can Different Central Banks Tailor their Policies?  
+&nbsp;&nbsp;&nbsp;&nbsp;    with Thomas Drechsel, Michael McLeay and Silvana Tenreyro
+
