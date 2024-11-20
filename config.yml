@@ -65,7 +65,7 @@ params:
             #- name: Teaching
             #  url: classes/
             - name: CV
-              url: /cv.pdf
+              url: /cv_edturri.pdf
             # - name: Archive
             #   url: archive/
     socialIcons:
