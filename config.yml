@@ -27,7 +27,7 @@ menu:
         #   weight: 4
 
 params:
-    #description: "PhD Candidate, LSE"
+    description: "PhD Candidate, LSE"
     author: Enrico D. Turri
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "02 Jan 2006"
