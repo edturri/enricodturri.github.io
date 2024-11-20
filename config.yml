@@ -12,7 +12,7 @@ taxonomies:
 menu:
     main:
         - name: Research
-          url: "https://edturri.github.io/public/articles/"
+          url: /articles/
           weight: 1
         #- name: Talks
         #  url: talks/
@@ -59,7 +59,7 @@ params:
           #imageTitle: Dylan Laplace Mermoud
           buttons:
             - name: Research
-              url: "https://edturri.github.io/public/articles/"
+              url: /articles/
             #- name: Talks
             #  url: talks/
             #- name: Teaching
