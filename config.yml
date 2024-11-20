@@ -59,13 +59,13 @@ params:
           #imageTitle: Dylan Laplace Mermoud
           buttons:
             - name: Research
-              url: /public/articles/
+              url: /articles
             #- name: Talks
             #  url: talks/
             #- name: Teaching
             #  url: classes/
             - name: CV
-              url: /cv_edturri.pdf
+              url: /cv.pdf
             # - name: Archive
             #   url: archive/
     socialIcons:
