@@ -1,7 +1,6 @@
 ---
 title: "Research"
-disableAuthor: true 
-# Prevent author display for this page 
+author: ""
 ---
 
 ### Working papers
