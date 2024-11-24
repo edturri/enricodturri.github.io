@@ -1,6 +1,8 @@
 ---
 title: "Research"
-author: ""
+author: "Enrico D. Turri"
+hideTitle: true
+disableAuthor: true
 ---
 
 ### Working papers
