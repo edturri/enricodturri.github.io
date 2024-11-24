@@ -53,6 +53,15 @@
   {{- if (.Param "comments") }}
   {{- partial "comments.html" . }}
   {{- end }}
+
+  {{ if not .Params.hideTitle }}
+    <h1>{{ .Title }}</h1>
+  {{ end }}
+
+  {{ if not .Params.disableAuthor }}
+      <p class="author">{{ .Params.author }}</p>
+  {{ end }}
+
 </article>
 
 {{- end }}{{/* end main */}}
