@@ -26,7 +26,7 @@ Housing Inequality
 &nbsp;&nbsp;&nbsp;&nbsp;    with Ethan Ilzetzki
 
 
-Monopsonistic Search
+Monopsonistic Search  
 &nbsp;&nbsp;&nbsp;&nbsp;    with Pietro Garibaldi and Espen R. Moen
 
 
