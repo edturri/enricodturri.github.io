@@ -85,6 +85,7 @@ params:
           url: mailto:e.turri@lse.ac.uk
         - name: University
           url: https://www.lse.ac.uk/economics/people/research-students/enrico-duilio-turri
+          icon: /public/LSElogo.jpg
 
     assets:
         disableHLJS: true
