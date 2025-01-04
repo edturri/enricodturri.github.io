@@ -41,8 +41,13 @@
 }
 
 .social-icons a:hover {
-    color: var(--darkpurple);
+    font-weight: bold; /* Add this line */
+    color: inherit; /* Change this line to prevent color change */
 }
+
+#.social-icons a:hover {
+#    color: var(--darkpurple);
+#}
 
 code {
     direction: ltr;
