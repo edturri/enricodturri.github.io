@@ -26,7 +26,7 @@
 }
 
 .footer a:hover {
-    border-bottom: 2px solid var(--darkpurple);
+    border-bottom: 2px solid #555555);
 }
 
 .top-link {
