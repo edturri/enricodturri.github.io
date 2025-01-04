@@ -9,9 +9,8 @@ disableAuthor: true
 
 Monopsony in Growth Theory  
 &nbsp;&nbsp;&nbsp;&nbsp;    with Pietro Garibaldi  
-&nbsp;&nbsp;&nbsp;&nbsp;    [IZA DP No. 17392](https://www.iza.org/en/publications/dp/17392/monopsony-in-growth-theory), [CEPR DP19652](https://cepr.org/publications/dp19652)
-
-&nbsp;&nbsp;&nbsp;&nbsp;    [Download PDF](/content/papers/Monopsony_Growth_Theory.pdf)
+&nbsp;&nbsp;&nbsp;&nbsp;    [IZA DP No. 17392](https://www.iza.org/en/publications/dp/17392/monopsony-in-growth-theory), [CEPR DP19652](https://cepr.org/publications/dp19652)  
+&nbsp;&nbsp;&nbsp;&nbsp;    [Download PDF](/papers/Monopsony_Growth_Theory.pdf)
 
 ---
 
