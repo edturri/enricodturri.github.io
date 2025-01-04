@@ -13,6 +13,7 @@ menu:
     main:
         - name: Home
           url: /
+          weight: 0
         - name: Research
           url: /research/
           weight: 1
@@ -93,10 +94,10 @@ params:
     cover:
         hiddenInList: false
         hiddenInSingle: true
-    label:
-      text: "Enrico D. Turri"
-      icon: logo2.ico
-      iconHeight: 18
+    #label:
+    #  text: "Enrico D. Turri"
+    #  icon: logo2.ico
+    #  iconHeight: 18
 
 markup:
     goldmark:
