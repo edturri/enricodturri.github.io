@@ -40,7 +40,7 @@
 }
 
 .button:hover {
-    background: var(--midpurple);
+    background: #FF0000;
 }
 
 .gray-line {
