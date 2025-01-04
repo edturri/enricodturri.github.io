@@ -44,7 +44,7 @@
 }
 
 .post-entry:hover {
-     border: 2px solid var(--midpurple);
+     border: 2px solid #000000; /* Use the hex code for black */
 }
 
 .tag-entry .entry-cover {
