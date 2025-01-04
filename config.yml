@@ -83,6 +83,8 @@ params:
         #   url: https://twitter.com/pmichaillat
         - name: Email
           url: mailto:e.turri@lse.ac.uk
+        - name: University
+          url: https://www.lse.ac.uk/economics/people/research-students/enrico-duilio-turri
 
     assets:
         disableHLJS: true
