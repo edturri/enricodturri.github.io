@@ -7,7 +7,7 @@ disableAuthor: true
 
 ### Working papers
 
-[Monopsony in Growth Theory](/papers/Monopsony_Growth_Theory.pdf)
+[Monopsony in Growth Theory](/papers/Monopsony_Growth_Theory.pdf)  
 &nbsp;&nbsp;&nbsp;&nbsp;    with Pietro Garibaldi  
 &nbsp;&nbsp;&nbsp;&nbsp;    CEPR DP19652, IZA DP No. 17392
 
