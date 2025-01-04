@@ -52,7 +52,7 @@ params:
     profileMode:
           enabled: true
           title: Enrico D. Turri
-          subtitle: "I am a PhD Candidate at The London School of Economics and Political Science <br> I do research in Macroeconomics, Growth and Inequality"
+          subtitle: "<br> I am a PhD Candidate at The London School of Economics and Political Science <br> <br> I do research in Macroeconomics, focusing on growth and its perception, distributional economics and HANK models and firm dynamics"
           #imageUrl: "photo.png"
           #imageWidth: 160
           #imageHeight: 160
