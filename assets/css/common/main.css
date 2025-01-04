@@ -40,10 +40,10 @@
     width: 26px;
 }
 
-.social-icons a:hover {
-    font-weight: bold; /* Add this line */
-    color: inherit; /* Change this line to prevent color change */
-}
+#.social-icons a:hover {
+#    font-weight: bold; /* Add this line */
+#    color: inherit; /* Change this line to prevent color change */
+#}
 
 #.social-icons a:hover {
 #    color: var(--darkpurple);
